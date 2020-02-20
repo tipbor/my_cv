@@ -1,17 +1,18 @@
-* {
-  margin:0px;
-  padding:0px;
-}
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
+body{
+  background-color:#ccedd2;
 }
+hr{
+  border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 20%;
+    border-color: gray;
 
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+}
+h2{
+color: #63b7af;
+}
+h3{
+  color: #63b7af;
 }
